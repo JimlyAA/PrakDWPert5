@@ -1,0 +1,15 @@
+body{
+    background-color :rgb(252, 252, 252);
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.judul2{
+    display: flex ;
+}
